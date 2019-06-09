@@ -1,0 +1,23 @@
+{
+    "name": "vue-validator-form",
+    "version": "0.0.1",
+    "description": "基于vue2项目自定义表单组件",
+    "main": "index.js",
+    "author": "wks",
+    "license": "MIT",
+    "keywords": [
+      "vue-validator-form",
+      "vue",
+      "form",
+      "checkbox",
+      "radio",
+      "select",
+      "switch",
+      "input"
+    ],
+    "dependencies": {
+        "async-validator": "^1.11.2",
+        "object-assign": "^4.1.1",
+        "popper.js": "^1.15.0"
+    }
+}
